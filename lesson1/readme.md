@@ -13,7 +13,7 @@ VUE
 
 三.项目
 用VUE+WEB
-给出PRD
+给出PRD/
 
 Nuxt+TS+AI
 
