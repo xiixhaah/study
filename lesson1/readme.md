@@ -36,6 +36,8 @@ LLM API接入能力
 22:30-24:00 学习Nuxt+AI项目
 
 润色github
-1.README.md 2.图像头像等 关注知名人物
+1.README.md 
+2.图像头像等 关注知名人物
 2.stars 100+ 每天七八个
-4.fork 50+ 5.小绿点 git push
+4.fork 50+ 
+5.小绿点 git push
